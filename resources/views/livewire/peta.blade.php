@@ -51,7 +51,7 @@
                     color: 'getRandomColor()',
                     // random color
                     fillColor: getRandomColor()
-                    , fillOpacity: 0.9
+                    , fillOpacity: 0.8
                 }).addTo(map);
 
                 // random marker color

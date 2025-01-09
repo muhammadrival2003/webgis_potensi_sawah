@@ -76,7 +76,7 @@
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h4 class="text-white text-uppercase mb-md-3">Selamat datang di website</h4>
-                            <h2 class="display-4 text-white mb-md-4 text-bold text-uppercase ">Dinas Pertanian <br> Kabupaten Aceh Utara</h2>
+                            <h2 class="display-4 text-white mb-md-4 text-bold text-uppercase ">WebGIS Potensi Sawah <br> Kabupaten Aceh Utara</h2>
                             {{-- <a href="#" class="btn btn-primary py-md-3 px-md-5 mt-2">Learn More</a> --}}
                         </div>
                     </div>
@@ -95,7 +95,7 @@
                         <i class="fa fa-2x fa-map-marker-alt text-white m-0 mr-3"></i>
                         <div class="d-flex flex-column">
                             <h5 class="text-white font-weight-medium">Lokasi</h5>
-                            <p class="m-0 text-white">Welala, Ladongi, Kab. Kolaka Timur</p>
+                            <p class="m-0 text-white">Lhokesumawe, Aceh Utara</p>
 
                         </div>
                     </div>
@@ -133,7 +133,7 @@
                 <div class="col-lg-7 mt-5 mt-lg-0 pl-lg-5">
                     <h6 class="text-secondary text-uppercase font-weight-medium mb-3">Tentang Visi Misi</h6>
                     <h1 class="mb-4">Visi</h1>
-                    <h5 class="font-weight-medium font-italic mb-5">"Menjadikan Kolaka Timur Sejahtera Bersama Masyarakat Kolaka Timur yang Agamis, Maju, Mandiri dan Berkeadilan"</h5>
+                    <h5 class="font-weight-medium font-italic mb-5">"Menjadikan Aceh Utara Sejahtera Bersama Masyarakat Aceh Utara yang Maju, Mandiri dan Berkeadilan"</h5>
                     <h1 class="mb-3">Misi</h1>
                     <div class="row">
                         <div class="col-sm-12 pt-3">
@@ -272,7 +272,7 @@
                 <div class="col-lg-7 m-0 my-lg-5 pt-0 pt-lg-5 pr-lg-5">
                     <h6 class="text-secondary text-uppercase font-weight-medium mb-3">Tentang</h6>
                     <h1 class="mb-4">Data Lahan</h1>
-                    <p>Berikut data lahan berdasarkan data pada Dinas Pertanian Kabupaten Aceh Utara:</p>
+                    <p>Berikut data lahan Persawahan Kabupaten Aceh Utara:</p>
                     <div class="row">
                         <h5 class="font-weight-bold">Total Pemilik Lahan:</h5>
                         <div class="col-sm-6 mb-4 d-flex">
